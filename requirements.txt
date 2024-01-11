@@ -1,0 +1,16 @@
+apex==0.9.10dev
+debugpy==1.5.1
+fuzzywuzzy==0.18.0
+javalang==0.13.0
+nltk==3.8.1
+numpy==1.23.5
+openai==0.27.2
+python_Levenshtein==0.23.0
+tensorboardX==2.6
+tensorboardX==2.6.2.2
+tiktoken==0.3.2
+torch==1.13.1
+tqdm==4.65.0
+tqdm==4.64.1
+transformers==4.24.0
+tree_sitter==0.20.1
