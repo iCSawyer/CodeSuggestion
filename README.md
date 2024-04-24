@@ -17,9 +17,11 @@ Some code is adapted from [microsoft/CodeXGLUE](https://github.com/microsoft/Cod
 
 If you find our research work helpful, please consider citing our paper: 
 ```
-@article{chen2024code,
+@inproceedings{chen2024code,
   title={Code Search is All You Need? Improving Code Suggestions with Code Search},
   author={Chen, Junkai and Hu, Xing and Li, Zhenhao and Gao, Cuiyun and Xia, Xin and Lo, David},
+  booktitle={Proceedings of the IEEE/ACM 46th International Conference on Software Engineering},
+  pages={1--13},
   year={2024}
 }
 ```
